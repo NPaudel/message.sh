@@ -10,4 +10,4 @@ This has been tested so far, and works, on Discord and Facebook Messenger, and I
 The execution of this script can be scheduled to run at a specific time by using `cron` or `at`. Useful when you don't want to wake up to wish your friend on their birthday.
 
 ### insta.sh
-Instagram does not open a specific chat from a url, so you need to open the chat first in order to send a message. Use `insta.sh` for this purpose.
+Instagram does not open a specific chat from a url, so you need to open the chat first in order to send a message. Use `insta.sh` for this purpose. The script needs to be tweaked depending on certain conditions (check the comments in the script) and I don't recommend using it.
