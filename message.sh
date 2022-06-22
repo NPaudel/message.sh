@@ -1,6 +1,6 @@
 export DISPLAY=:1 &&  /usr/bin/firefox google.com
 # Put in the URL of the chat where you want to send the message 
-# This script has been tested with Messenger and Discord till now
+# This script has been tested with Messenger, Discord and Instagram till now
 
 sleep 10 # to let the page load
 
